@@ -1,0 +1,17 @@
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\obj\Debug\net6.0-windows\Income And Expenses.csproj.AssemblyReference.cache
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\obj\Debug\net6.0-windows\Income_And_Expenses.Form1.resources
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\obj\Debug\net6.0-windows\Income And Expenses.csproj.GenerateResource.cache
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\obj\Debug\net6.0-windows\Income And Expenses.GeneratedMSBuildEditorConfig.editorconfig
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\obj\Debug\net6.0-windows\Income And Expenses.AssemblyInfoInputs.cache
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\obj\Debug\net6.0-windows\Income And Expenses.AssemblyInfo.cs
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\obj\Debug\net6.0-windows\Income And Expenses.csproj.CoreCompileInputs.cache
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\bin\Debug\net6.0-windows\Income And Expenses.exe
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\bin\Debug\net6.0-windows\Income And Expenses.deps.json
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\bin\Debug\net6.0-windows\Income And Expenses.runtimeconfig.json
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\bin\Debug\net6.0-windows\Income And Expenses.dll
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\bin\Debug\net6.0-windows\ref\Income And Expenses.dll
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\bin\Debug\net6.0-windows\Income And Expenses.pdb
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\obj\Debug\net6.0-windows\Income And Expenses.dll
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\obj\Debug\net6.0-windows\ref\Income And Expenses.dll
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\obj\Debug\net6.0-windows\Income And Expenses.pdb
+E:\โปรเจก\IncomeAndExpenses\Income And Expenses\Income And Expenses\obj\Debug\net6.0-windows\Income And Expenses.genruntimeconfig.cache
